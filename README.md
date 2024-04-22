@@ -24,3 +24,9 @@ ___Objetivos___:
 4. Formatação com Markdown
     - Editar o arquivo __"README.md"__ em seu repositório.
     - Utilizar a linguagem markdown para formata informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+    -------------------------------------------------------------------------------------------------------------------------------
+
+    __Descrição do Projeto__
+
+    A proposta do desafio foi realizar todos os comando do github em um novo repositório chamado de "desafio-github-markdown"
+    Foi ensinado a criar uma conta no GitHub e utilizar o github.dev. A clonar um repositório, assim como fazer auterações, commits, pull request e abrir uma issues.
