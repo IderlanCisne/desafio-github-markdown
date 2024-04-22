@@ -19,7 +19,7 @@ ___Objetivos___:
 3. Colaboração:
     - Adiciona um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com um conta diferente).
     - Ambos devem fazer um clone do repositório em suas maquinas locais.
-    - Realizam auterações, commits, abra issues e pul resquest.
+    - Realizam auterações, commits, abra issues e pull resquest.
 
 4. Formatação com Markdown
     - Editar o arquivo __"README.md"__ em seu repositório.
